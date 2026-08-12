@@ -18,7 +18,6 @@ public class P05 {
        // System.out.println();
         System.out.println("Area          = "+ area);
         System.out.printf("Circumference = "+ circumference);
-
         scanner.close();
     }
 }
